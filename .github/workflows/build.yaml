@@ -21,4 +21,4 @@ jobs:
 
     - name: Build
       working-directory: ./build
-      run: dotnet build
+      run: dotnet build Stride.sln
